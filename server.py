@@ -120,7 +120,7 @@ def main():
             st.write("No matching products found.")
     
     st.markdown("---")
-    st.markdown("If this app doesn't work, please try [version 1](https://zeptocasestudy-bf3mw3ixbndrax4vfvesns.streamlit.app/).")
+    #st.markdown("If this app doesn't work, please try [version 1](https://zeptocasestudy-bf3mw3ixbndrax4vfvesns.streamlit.app/).")
 
 if __name__ == "__main__":
     main()
